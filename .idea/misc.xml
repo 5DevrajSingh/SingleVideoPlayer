@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Dev/Videopalyer/app/src/main/res/layout/activity_main.xml" value="0.11510416666666666" />
+        <entry key="..\:/Android_Dev/Videopalyer/app/src/main/res/layout/custome_controler.xml" value="0.12916666666666668" />
+        <entry key="..\:/Android_Dev/Videopalyer/app/src/main/res/layout/exo_simple_player_view.xml" value="0.12916666666666668" />
+        <entry key="..\:/DevRaj Singh24_5_22/Videopalyer/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Dev/.gradle/caches/transforms-3/2d8be1531689367a439c115b254dd70d/transformed/jetified-exoplayer-ui-2.7.3/res/layout/exo_simple_player_view.xml" value="0.12916666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
